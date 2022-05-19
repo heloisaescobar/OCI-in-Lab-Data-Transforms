@@ -29,3 +29,26 @@ Inserir o password para o usuário ADMIN e após clicar em <i>Create Autonomous 
 Aguardar o Provisionamento da instância
 
 ![image](https://user-images.githubusercontent.com/46925501/155532515-a38c5be1-068d-4914-a8cb-e72d7a3043af.png)
+
+## Criando Database User
+
+Após a criação da instância, clique em <i>Database Actions</i>
+
+![image](https://user-images.githubusercontent.com/46925501/169381881-89d01052-1f34-4e23-8895-7fd14afc5b68.png)
+
+Em <i>Database Actions</i> na sessão <i>Administration</i> clique em <i>Database Users</i>
+
+![image](https://user-images.githubusercontent.com/46925501/169382132-75184f33-2003-4c3e-b886-3e21600f90b8.png)
+
+Na página do <i>Database Users</i>, clique em <i>Create User</i>
+
+![image](https://user-images.githubusercontent.com/46925501/169382231-d8f66cbc-a2d4-4b27-a3b4-1a316904565f.png)
+
+Você irá preencher os campos conforme imagem abaixo - Obs. Lembrando que em <i>User Name</i> você deve colocar o nome do seu usuário
+
+![image](https://user-images.githubusercontent.com/46925501/169382354-97421bcc-a888-453d-b2a0-a5dcbbf28377.png)
+
+Após preencher o formulário acima, clique na aba <i>Grated Roles</i> e adicione o grant conforme imagem e clique em <i>Create User</i>
+
+![image](https://user-images.githubusercontent.com/46925501/169382509-c827bf90-569f-4a56-8aeb-147d97c7a1ad.png)
+
