@@ -26,7 +26,17 @@ Após criarmos nosso conector, vamos realizar a carga dos dados, selecionando <i
 
 Teremos uma espaço com todos os arquivos que estão no bucket apontado, para carregarmos esse dado, vamos selecionar o arquivo que queremos carregar para o Autonomous e arrastar para o canvas, conforme imagem.
 
-Obs. Realizar esse procedimento para os arquivos <b><i>Movie_Sales_2020.csv</i></b> e <b><i>Devices.csv<i></b>
+Obs. Realizar esse procedimento para os arquivos <b><i>Movie_Sales_2020.csv</i></b> e <b><i>Devices.csv</i></b>
 ![image](https://user-images.githubusercontent.com/46925501/169385566-214a1a75-2d57-4dda-978e-b6add9f53bb1.png)
 
+Após arrastar para o cavas, clicar no lapis conforme imagem
+![image](https://user-images.githubusercontent.com/46925501/169386213-4b5825ea-e036-461c-bd43-5a2179f9ce20.png)
+
+Validar se os campos das tabelas estão estruturados conforme imagem
+![image](https://user-images.githubusercontent.com/46925501/169386301-8b9e90cb-2381-442f-8ade-78e04e637418.png)
+
+Volte a tela anterior e clique em executar
+![image](https://user-images.githubusercontent.com/46925501/169386374-66350c6c-5efb-4c5e-86d9-c538bbab2fee.png)
+
+Dados carregados para o Autonomous Datawarehouse.
 
