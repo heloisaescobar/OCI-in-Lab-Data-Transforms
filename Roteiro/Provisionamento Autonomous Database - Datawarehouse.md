@@ -50,5 +50,6 @@ Você irá preencher os campos conforme imagem abaixo - Obs. Lembrando que em <i
 
 Após preencher o formulário acima, clique na aba <i>Grated Roles</i> e adicione o grant conforme imagem e clique em <i>Create User</i>
 
-![image](https://user-images.githubusercontent.com/46925501/169382509-c827bf90-569f-4a56-8aeb-147d97c7a1ad.png)
+![image](https://user-images.githubusercontent.com/46925501/169382645-7edb2a57-653c-4bdf-882b-d2d7f4d663bd.png)
+
 
