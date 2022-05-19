@@ -1,1 +1,0 @@
-# Provisionamento Autonomous Database - Datawarehouse
