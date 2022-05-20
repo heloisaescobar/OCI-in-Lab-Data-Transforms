@@ -34,7 +34,7 @@ Preencher o formulário com as informações do projeto conforme imagem abaixo
 ![image](https://user-images.githubusercontent.com/46925501/169423195-6145ffcb-7480-4422-9064-568a0f23d47d.png)
 
 Após as configurações anteriores, teremos um canvas para desenvolvimento do nosso data flow
-![image](https://user-images.githubusercontent.com/46925501/169423560-386c3fb5-c746-4134-b0fa-e56694f6ea3e.png)
+![image](https://user-images.githubusercontent.com/46925501/169425728-a5da6f45-3289-42e4-9c4e-8ec22ce88804.png)
 
 O primeiro passo é arrastarmos as bases de dados que vamos trabalhar para o cavas. Para isso clique na entidade de dados <i>Movie_SALES_2020</i> e arraste para o canvas; realizar o mesmo para a entidade de dados <i>DEVICES</i>
 ![image](https://user-images.githubusercontent.com/46925501/169423937-111bac86-c7c1-490a-8af4-355ed84b82d4.png)
