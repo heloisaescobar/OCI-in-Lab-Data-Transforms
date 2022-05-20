@@ -9,7 +9,7 @@ Após logarmos na console do Data Transform, clicamos em <i>Connections</i> e <i
 Adicionar um nome na conexão e selecionar o conector Oracle
 ![image](https://user-images.githubusercontent.com/46925501/169422381-8a45ef30-2e6b-4f72-9f24-97bbee4f523a.png)
 
-Para o próximo passo, será necessário fazer o download da wallet do Autonomous Datawarehouse. Para ver o passo a passo [clique aqui]()
+Para o próximo passo, será necessário fazer o download da wallet do Autonomous Datawarehouse. Para ver o passo a passo [clique aqui](https://github.com/heloisaescobar/OCI-in-Lab-Data-Transforms/blob/main/Roteiro/Desenvolvendo%20seus%20fluxos%20no%20Data%20Transforms.md#gerando-wallet)
 
 Preencha os demais campos conforme formulário abaixo
 
