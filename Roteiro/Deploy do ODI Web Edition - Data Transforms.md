@@ -43,5 +43,3 @@ Após as configurações, logar com o usuário <i>SUPERVISOR</i> maiúsculo e o 
 
 
 
-
-
