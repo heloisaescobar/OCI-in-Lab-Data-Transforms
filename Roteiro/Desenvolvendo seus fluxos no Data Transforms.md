@@ -77,3 +77,19 @@ Você será direcionado para uma console de acompanhamento do seu job. Aguarde f
 ![image](https://user-images.githubusercontent.com/46925501/169425593-55a5b2cf-53cc-4235-a3bd-3cf834ec66c4.png)
 
 Após a finalização do JOB, você possui seus dados disponíveis para consumo no Autonomous Datawarehouse.
+
+## Gerando Wallet
+
+Para gerarmos nossa wallet, vamos acessar nosso Autonomous Datawarehouse
+![image](https://user-images.githubusercontent.com/46925501/169425972-86563f1c-461f-4ae6-b0df-fcdc3d566eac.png)
+
+Você será redirecionado para uma janela com os detalhes da instância de Autonomous Data Warehouse. Nesta tela clique sobre o botão DB Connection.
+![image](https://user-images.githubusercontent.com/46925501/169426005-b5681474-f63b-4dea-8498-bf5101cfff35.png)
+
+Uma caixa de diálogo será exibida. Nesta, clique em Download Wallet.
+![image](https://user-images.githubusercontent.com/46925501/169426023-81a1204a-06c5-40aa-ac58-6f2123b34097.png)
+
+Digite uma senha de sua preferência, clique em Download e salve o arquivo .zip em uma pasta desejada.
+![image](https://user-images.githubusercontent.com/46925501/169426049-83f3829e-2ff9-48c2-890a-3b1e860a3278.png)
+
+Sua wallet foi gerada com sucesso.
